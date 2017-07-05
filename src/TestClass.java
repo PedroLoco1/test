@@ -21,6 +21,6 @@ public class TestClass {
 		System.out.println("la vie est nul ok ok pas tout à fait");
 		
 		
-		//petit commentaire rajouté par Vincent
+		//petit commentaire rajouté par Myrfa
 	}
 }
